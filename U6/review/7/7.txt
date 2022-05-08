@@ -1,0 +1,18 @@
+答案：
+switch (ch)
+{
+case 'A':
+    a_grade++;
+    cin.get(ch);
+case 'B':
+    b_grade++;
+    cin.get(ch);
+case 'C':
+    c_grade++;
+    cin.get(ch);
+case 'D':
+    d_grade++;
+    cin.get(ch);
+default:
+    break;
+}

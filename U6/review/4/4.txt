@@ -1,0 +1,5 @@
+1.  weight >=115 && weight < 125
+2.  ch == 'q' || ch == 'Q'
+3.  x/2 == 0 && x != 26
+4.  (donation >= 1000 && donation <= 2000) || guest == 1
+5.  (ch >= 'A' && ch <= 'Z') || (ch >= 'a' && ch <= 'z')

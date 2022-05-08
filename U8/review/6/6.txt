@@ -1,0 +1,9 @@
+a.使用默认参数。
+        double mass(double density,double volume=1.0);
+b.使用函数重载。
+        void repeat(int num,string str);
+        void repeat(string str);
+c.使用函数重载。
+        double average(int,int);
+        double average(double,double);
+d.无法实现。

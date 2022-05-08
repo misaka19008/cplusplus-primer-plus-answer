@@ -1,0 +1,7 @@
+1.  void igor();
+2.  float tofu(int);
+3.  double mpg(double,double);
+4.  long summation(long [],long);
+5.  double doctor(const string);
+6.  void ofcourse(boss);
+7.  string plot(map *);
