@@ -1,0 +1,6 @@
+bank_acc_info(const std::string n,long long acc_id,long double tot){
+    name=n;
+    account_id=acc_id;
+    if (tot < 0) std::cout<<"Error: Money can't lesser than zero!"<<endl;
+    else set_total(tot);
+}
