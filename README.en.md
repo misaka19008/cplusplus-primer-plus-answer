@@ -5,7 +5,7 @@ C++ Primer Plus exercises
 C++ Primer Plus Sixth Edition (Chinese)
 
 #### About update
-It is currently updated to Chapter 9 of 18, usually one chapter per week.
+It is currently updated to Chapter 10 of 18, usually one chapter per week.
 
 #### Project's address on Gitee
 https://gitee.com/icewolf00/cplusplus--primer-plus-answer
