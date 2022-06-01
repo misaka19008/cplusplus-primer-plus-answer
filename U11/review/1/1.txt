@@ -1,0 +1,5 @@
+Stonewt Stonewt::operator*(double num){
+    double total_pounds=stone*LBS_PER_STN+pounds;
+    double pound_after=total_pounds*num;
+    return Stonewt(pound_after);
+}

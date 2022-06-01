@@ -1,0 +1,1 @@
+operator double() { return mag; }

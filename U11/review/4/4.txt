@@ -1,0 +1,6 @@
+函数原型：
+friend Stonewt operator*(double num,const Stonewt & st);
+函数体：
+Stonewt operator*(double num,Stonewt & st){
+    return Stonewt(num*st.pounds);
+}
