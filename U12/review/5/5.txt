@@ -1,0 +1,8 @@
+1.      Golfer()
+2.      Golfer(const char * name,int g=0)
+3.      Golfer(const char * name,int g=0)
+4.      Golfer();
+5.      Golfer(const Golfer & g)
+6.      Golfer(const char * name,int g=0)
+7.      生成默认赋值运算符
+8.      生成默认赋值运算符
